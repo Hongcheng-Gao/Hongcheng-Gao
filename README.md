@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👋 Hi, I’m Hongcheng Gao, an incoming MS student at UCAS
+- ✨ I’m interested in trustworthy NLP, large language modeling and multi-modal learning.
+- 🏚️ More about me, find out at my [homepage](https://Hongcheng-Gao.github.io/)
+
 
 <!--
 **Hongcheng-Gao/Hongcheng-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
