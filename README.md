@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m Hongcheng Gao(高鸿成), an incoming MS student at UCAS.
+- 👋 Hi, I’m Hongcheng Gao(高鸿成), a first-year MS student at UCAS.
 - ✨ I’m interested in trustworthy NLP, large language modeling and multi-modal learning.
 - 🏚️ More about me, find out at my [homepage](https://Hongcheng-Gao.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=pF5p7_IAAAAJ&hl=en/)
 - 📮 Contact me: gaohongcheng2000@gmail.com
